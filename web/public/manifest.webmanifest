@@ -1,0 +1,16 @@
+{
+  "name": "Gubots",
+  "short_name": "Gubots",
+  "description": "Agentes de IA locais",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "/icon-chefe-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-chefe-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-chefe-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
